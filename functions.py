@@ -30,7 +30,7 @@ def data_request(start, end):
     """
     
     # Personal Access Token used to access the user data via the Oura Cloud API
-    headers = {'Authorization': 'Bearer VW7EVSMXBENQGLVRJOLCZ6CF3VKPBQAK'}
+    headers = {'Authorization': 'Bearer CZQY7GXLYM4JRPEWO4SYGLCRFG5BXD5K'}
     
     # Parent route
     url = f'https://api.ouraring.com/v2/usercollection/'
